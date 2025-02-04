@@ -69,13 +69,13 @@ GEM
       ruby2_keywords (~> 0.0.1)
     mysql2 (0.5.3)
     netrc (0.11.0)
-    nio4r (2.7.3)
+    nio4r (2.7.4)
     protobuf-cucumber (3.10.8)
       activesupport (>= 3.2)
       middleware
       thor
       thread_safe
-    puma (5.6.8)
+    puma (5.6.9)
       nio4r (~> 2.0)
     rack (2.2.9)
     rack-protection (2.2.3)
